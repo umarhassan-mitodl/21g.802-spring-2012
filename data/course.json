@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Portuguese"
+    ]
+  ],
+  "legacy_uid": "0937fb75-f34e-8882-631f-1172c0fa8556",
+  "instructors": {
+    "content": [
+      "887ed2cd-affd-ce43-9ebc-c6d193b60af2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a4273af3-3ceb-0d89-d798-8797054ac414",
+    "website": "21g-802-portuguese-ii-spring-2012"
+  },
+  "course_title": "Portuguese II",
+  "course_description": "This course is a continuation of 21G.801. It focuses on expanding communication skills and further development of linguistic competency using a variety of authentic sources, such as the Internet, audio, video, and printed materials, to help develop cultural awareness and linguistic proficiency. This course is conducted entirely in Portuguese.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.852",
+  "primary_course_number": "21G.802",
+  "course_image_thumbnail": {
+    "content": "0410b5fd-d713-251e-7125-ad74164b2596",
+    "website": "21g-802-portuguese-ii-spring-2012"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "6235f2b3-5178-4f73-bbb6-e913b3c33cf2",
+  "site_short_id": "21g.802-spring-2012",
+  "site_url_path": "courses/21g-802-portuguese-ii-spring-2012",
+  "title": "Course Metadata"
+}
